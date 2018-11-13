@@ -120,8 +120,13 @@
     <ClCompile Include="Item 2 - auto.cpp" />
     <ClCompile Include="Item 3 - decltype.cpp" />
     <ClCompile Include="Item 1 - Template type deduction.cpp" />
-    <ClCompile Include="scopedEnums.cpp" />
-    <ClCompile Include="typeTraits.cpp" />
+    <ClCompile Include="Item 5 - Prefer auto to explicit type declarations.cpp" />
+    <ClCompile Include="Item 6 - When auto fails.cpp" />
+    <ClCompile Include="Item 7 - Distinguish () and {}.cpp" />
+    <ClCompile Include="Item 8 - Prefer nullptr to 0 and NULL.cpp" />
+    <ClCompile Include="Item 9 - Prefer alias declaration to typedefs.cpp" />
+    <ClCompile Include="Item 10 - Prefer scoped enums.cpp" />
+    <ClCompile Include="Item 9 - Type traits.cpp" />
     <ClCompile Include="Item 4 - Viewing deduced types.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

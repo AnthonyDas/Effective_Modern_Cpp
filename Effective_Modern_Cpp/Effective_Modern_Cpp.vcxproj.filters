@@ -27,12 +27,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="typeTraits.cpp">
-      <Filter>Source Files\Chapter 2 - auto</Filter>
-    </ClCompile>
-    <ClCompile Include="scopedEnums.cpp">
-      <Filter>Source Files\Chapter 3 - Moving to Modern C++</Filter>
-    </ClCompile>
     <ClCompile Include="customDeleters.cpp">
       <Filter>Source Files\Chapter 4 - Smart Pointers</Filter>
     </ClCompile>
@@ -50,6 +44,27 @@
     </ClCompile>
     <ClCompile Include="Item 2 - auto.cpp">
       <Filter>Source Files\Chapter 1 - Deducing Types</Filter>
+    </ClCompile>
+    <ClCompile Include="Item 5 - Prefer auto to explicit type declarations.cpp">
+      <Filter>Source Files\Chapter 2 - auto</Filter>
+    </ClCompile>
+    <ClCompile Include="Item 6 - When auto fails.cpp">
+      <Filter>Source Files\Chapter 2 - auto</Filter>
+    </ClCompile>
+    <ClCompile Include="Item 7 - Distinguish () and {}.cpp">
+      <Filter>Source Files\Chapter 3 - Moving to Modern C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Item 8 - Prefer nullptr to 0 and NULL.cpp">
+      <Filter>Source Files\Chapter 3 - Moving to Modern C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Item 9 - Prefer alias declaration to typedefs.cpp">
+      <Filter>Source Files\Chapter 3 - Moving to Modern C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Item 9 - Type traits.cpp">
+      <Filter>Source Files\Chapter 3 - Moving to Modern C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Item 10 - Prefer scoped enums.cpp">
+      <Filter>Source Files\Chapter 3 - Moving to Modern C++</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

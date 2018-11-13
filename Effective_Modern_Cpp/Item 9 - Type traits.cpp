@@ -1,14 +1,3 @@
-
-// Recovering underlying type of iterator. (Item 5, p.37)
-#include <iterator> 
-
-template <typename It>
-void f(It b) {
-	
-	// But try to emply auto instead anyway 
-	typename std::iterator_traits<It>::value_type;
-}
-
 // (Item 9, p.66)
 
 #include <type_traits>
