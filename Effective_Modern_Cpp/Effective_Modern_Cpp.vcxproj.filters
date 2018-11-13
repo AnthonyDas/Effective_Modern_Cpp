@@ -66,5 +66,23 @@
     <ClCompile Include="Item 10 - Prefer scoped enums.cpp">
       <Filter>Source Files\Chapter 3 - Moving to Modern C++</Filter>
     </ClCompile>
+    <ClCompile Include="Item 11 - Prefer deleted funcs to private undefined.cpp">
+      <Filter>Source Files\Chapter 3 - Moving to Modern C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Item 12 - Declare overriding funcs override.cpp">
+      <Filter>Source Files\Chapter 3 - Moving to Modern C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Item 13 - Prefer const_iterators to iterators.cpp">
+      <Filter>Source Files\Chapter 3 - Moving to Modern C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Item 14 - Declare funcs noexcept if they won%27t emit exceptions.cpp">
+      <Filter>Source Files\Chapter 3 - Moving to Modern C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Item 15 - Use constexpr whenever possible.cpp">
+      <Filter>Source Files\Chapter 3 - Moving to Modern C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Item 16 - Make const member functions thread safe.cpp">
+      <Filter>Source Files\Chapter 3 - Moving to Modern C++</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

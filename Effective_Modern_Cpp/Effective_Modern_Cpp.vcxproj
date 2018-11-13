@@ -117,6 +117,12 @@
   <ItemGroup>
     <ClCompile Include="Item 1 - arraySize.cpp" />
     <ClCompile Include="customDeleters.cpp" />
+    <ClCompile Include="Item 11 - Prefer deleted funcs to private undefined.cpp" />
+    <ClCompile Include="Item 12 - Declare overriding funcs override.cpp" />
+    <ClCompile Include="Item 13 - Prefer const_iterators to iterators.cpp" />
+    <ClCompile Include="Item 14 - Declare funcs noexcept if they won%27t emit exceptions.cpp" />
+    <ClCompile Include="Item 15 - Use constexpr whenever possible.cpp" />
+    <ClCompile Include="Item 16 - Make const member functions thread safe.cpp" />
     <ClCompile Include="Item 2 - auto.cpp" />
     <ClCompile Include="Item 3 - decltype.cpp" />
     <ClCompile Include="Item 1 - Template type deduction.cpp" />
